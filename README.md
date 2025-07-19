@@ -97,3 +97,9 @@ Farshad is also the founder of [Dash Squid](https://dashsquid.com), a design stu
 * Portfolio: [farshadsadri.com](https://farshadsadri.com)
 * GitHub: [@farshad-sadri](https://github.com/farshad-sadri)
 * LinkedIn: [linkedin.com/in/farshadsadri](https://www.linkedin.com/in/farshadsadri)
+
+
+---
+### 🙏 Credits
+
+This plugin is a fork of the original project by [Denny Dai](https://github.com/DennyDai/yourls-preview-url-with-qrcode), extended and modernized for improved maintainability and added features like thumbnail preview.
