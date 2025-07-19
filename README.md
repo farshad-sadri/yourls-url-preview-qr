@@ -26,7 +26,7 @@ A YOURLS plugin that displays a preview page with a **QR code** and a **thumbnai
    git clone https://github.com/farshad-sadri/yourls-url-preview-qr.git
    ```
 
-   Or [download as ZIP](https://github.com/farshad-sadri/yourls-url-preview-qr/archive/refs/heads/main.zip) and extract it to:
+   Or [download as ZIP](https://github.com/farshad-sadri/yourls-url-preview-qr/archive/refs/heads/master.zip) and extract it to:
 
    ```
    /user/plugins/yourls-url-preview-qr
