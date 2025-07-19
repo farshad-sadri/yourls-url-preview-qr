@@ -1,4 +1,4 @@
-# YOURLS URL Preview with QR Code & Thumbnail
+# URL Preview with QR Code & Thumbnail
 
 A YOURLS plugin that displays a preview page with a **QR code** and a **thumbnail image** of the destination URL — simply by appending `~` to any short link.
 
